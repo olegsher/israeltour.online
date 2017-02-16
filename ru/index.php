@@ -110,8 +110,8 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
 <?php include("__yandex.html"); ?>
 <?php include("__shema.html"); ?>
 
-<?php include("__top.html"); ?>
-<?php include("_index.php"); ?>
-<?php include("__footer.html"); ?>
+<?php include("top.html"); ?>
+<?php include("index.html"); ?>
+<?php include("bottom.html"); ?>
 </body>
 </html>
