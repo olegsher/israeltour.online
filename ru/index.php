@@ -115,7 +115,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
 <?php include("_newsletter.html"); ?>
 <?php include("_bottom.html"); ?>
 
-
+<?php include("_contacts.html"); ?>
 <?php include("_footer.html"); ?>
 <?php include("_checkout.html"); ?>
 <?php include("_bottom_scripts.html"); ?>
