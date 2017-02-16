@@ -104,11 +104,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
 <?php include("_header.html"); ?>
 </head>
  <body id="top" data-spy="scroll" data-target=".navbar" data-offset="260">
-<?php include("__facebook.html"); ?>
-<?php include("__google.html"); ?>
-<?php include("__mailru.html"); ?>
-<?php include("__yandex.html"); ?>
-<?php include("__shema.html"); ?>
+
 
 <?php include("_top.html"); ?>
 <?php include("_index.html"); ?>
