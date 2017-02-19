@@ -75,12 +75,12 @@
                     <div class="styled-select-car">
                       <select name="car-select" id="car-select">
                         <option value="">Выбирайте экскурсию</option>
-                        <option value="../img/vehicle1.jpg">Экскурсия до 3 человек, гид + машина + водитель</option>
-                        <option value="../img/vehicle2.jpg">Экскурсия до 6 человек, гид + машина + водитель</option>
-                        <option value="../img/vehicle3.jpg">Экскурсия до 7 человек, гид + машина + водитель</option>
-                        <option value="../img/vehicle4.jpg">Экскурсия до 4 человек, на машине клиента</option>
-                        <option value="../img/vehicle5.jpg">Экскурсия до 7 человек, на машине клиента</option>
-                        <option value="../img/vehicle6.jpg">Экскурсия до 8 человек, на машине клиента</option>
+                        <option value="Экскурсия до 3 человек, гид + машина + водитель">Экскурсия до 3 человек, гид + машина + водитель</option>
+                        <option value="Экскурсия до 6 человек, гид + машина + водитель">Экскурсия до 6 человек, гид + машина + водитель</option>
+                        <option value="Экскурсия до 7 человек, гид + машина + водитель">Экскурсия до 7 человек, гид + машина + водитель</option>
+                        <option value="Экскурсия до 4 человек, на машине клиента">Экскурсия до 4 человек, на машине клиента</option>
+                        <option value="Экскурсия до 7 человек, на машине клиента">Экскурсия до 7 человек, на машине клиента</option>
+                        <option value="Экскурсия до 8 человек, на машине клиента">Экскурсия до 8 человек, на машине клиента</option>
                       </select>
                     </div>
                     <!-- Car select end -->
@@ -118,19 +118,19 @@
                       <div class="time pull-right">
                         <div class="styled-select-time">
                           <select name="pick-up-time" id="pick-up-time">
-                            <option value="06:00 AM">06:00 AM</option>
-                            <option value="06:30 AM">06:30 AM</option>
-                            <option value="07:00 AM">07:00 AM</option>
-                            <option value="07:30 AM">07:30 AM</option>
-                            <option value="08:00 AM">08:00 AM</option>
-                            <option value="08:30 AM">08:30 AM</option>
-                            <option value="09:00 AM">09:00 AM</option>
-                            <option value="09:30 AM">09:30 AM</option>
-                            <option value="10:00 AM">10:00 AM</option>
-                            <option value="10:30 AM">10:30 AM</option>
-                            <option value="11:00 AM">11:00 AM</option>
-                            <option value="11:30 AM">11:30 AM</option>
-                            <option value="12:00 PM">12:00 PM</option>                            
+                            <option value="06:00 AM">06:00</option>
+                            <option value="06:30 AM">06:30</option>
+                            <option value="07:00 AM">07:00</option>
+                            <option value="07:30 AM">07:30</option>
+                            <option value="08:00 AM">08:00</option>
+                            <option value="08:30 AM">08:30</option>
+                            <option value="09:00 AM">09:00</option>
+                            <option value="09:30 AM">09:30</option>
+                            <option value="10:00 AM">10:00</option>
+                            <option value="10:30 AM">10:30</option>
+                            <option value="11:00 AM">11:00</option>
+                            <option value="11:30 AM">11:30</option>
+                            <option value="12:00 PM">12:00</option>                            
                           </select>
                         </div>
                       </div>
