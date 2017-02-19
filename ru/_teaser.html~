@@ -138,18 +138,23 @@
                     </div>
                     <!-- Pick-up date/time end -->
                     
-                    <div class="form-group left">
-                        <label for="first-name">First Name:</label>
-                        <input type="text" class="form-control" name="first-name" id="first-name" placeholder="Enter your first name">
-                      </div>
-                      <div class="form-group right">
-                        <label for="last-name">Last Name:</label>
-                        <input type="text" class="form-control" name="last-name" id="last-name" placeholder="Enter your last name">
-                      </div>
-                      <div class="form-group left">
-                        <label for="phone-number">Phone Number:</label>
-                        <input type="text" class="form-control" name="phone-number" id="phone-number" placeholder="Enter your phone number">
-                      </div>
+                    <div class="form-group">
+                    <input type="text" class="form-control first-name text-field" name="first-name" placeholder="First Name:">
+                    <input type="text" class="form-control last-name text-field" name="last-name" placeholder="Last Name:">
+                    <div class="clearfix"></div>
+                  </div>
+
+                  <div class="form-group">
+                    <input type="tel" class="form-control telephone text-field" name="telephone" placeholder="Telephone:">
+                  </div>
+
+                  <div class="form-group">
+                    <input type="email" class="form-control email text-field" name="email" placeholder="Email:">
+                  </div>
+
+                  <div class="form-group">
+                    <textarea class="form-control message" name="message" placeholder="Message:"></textarea>
+                  </div>
 
                     
 

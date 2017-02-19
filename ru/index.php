@@ -26,7 +26,7 @@ if(isset($_POST['submit'])){
     $headers .= "Content-Type: text/html; charset=utf-8\r\n";
     
     
-    $subject = $_POST['First_name'] . " " . $_POST['Last_name'] . " " . $_POST['car-select'] . " " . "rentcarisrael.online";    
+    $subject = $_POST['first_name'] . " " . $_POST['last_name'] . " " . $_POST['tour-select'] . " " . "israeltour.online";    
             $message = '<html lang="ru"><body>';
             $message .= '<hr />';
             $message .= 'Бронирование экскурсии в Израиле на http://www.israeltour.online +972-58-7710101';
