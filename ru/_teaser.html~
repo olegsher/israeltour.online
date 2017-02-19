@@ -75,12 +75,12 @@
                     <div class="styled-select-car">
                       <select name="car-select" id="car-select">
                         <option value="">Select your car type</option>
-                        <option value="../img/vehicle1.jpg">VW Golf VII</option>
-                        <option value="../img/vehicle2.jpg">Audi A1 S-LINE</option>
-                        <option value="../img/vehicle3.jpg">Toyota Camry</option>
-                        <option value="../img/vehicle4.jpg">BMW 320 ModernLine</option>
-                        <option value="../img/vehicle5.jpg">Mercedes-Benz GLK</option>
-                        <option value="../img/vehicle6.jpg">VW Passat CC</option>
+                        <option value="../img/vehicle1.jpg">Экскурсия в Иерусалим, до 3 человек, гид + машина + водитель</option>
+                        <option value="../img/vehicle2.jpg">Экскурсия в Иерусалим, до 6 человек, гид + машина + водитель</option>
+                        <option value="../img/vehicle3.jpg">Экскурсия в Иерусалим, до 7 человек, гид + машина + водитель</option>
+                        <option value="../img/vehicle4.jpg">Экскурсия в Иерусалим, до 4 человек, на машине клиента</option>
+                        <option value="../img/vehicle5.jpg">Экскурсия в Иерусалим, до 7 человек, на машине клиента</option>
+                        <option value="../img/vehicle6.jpg">Экскурсия в Иерусалим, до 8 человек, на машине клиента</option>
                       </select>
                     </div>
                     <!-- Car select end -->
