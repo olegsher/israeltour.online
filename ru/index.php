@@ -76,15 +76,15 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
 <?php include("_top.html"); ?>
 <?php include("_index.html"); ?>
 <?php include("_teaser.html"); ?>
-// <!-- <?php include("_services.html"); ?> -->
+<?php include("x_services.html"); ?> 
 
-// <!-- <?php include("_vehicles.html"); ?> -->
-// <!-- <?php include("_newsletter.html"); ?> -->
+<?php include("x_vehicles.html"); ?> 
+<?php include("x_newsletter.html"); ?> 
 
 
-// <!-- <?php include("_contacts.html"); ?> -->
-// <!-- <?php include("_footer.html"); ?> -->
-// <!-- <?php include("_checkout.html"); ?> -->
+<?php include("x_contacts.html"); ?> 
+<?php include("x_footer.html"); ?> 
+<?php include("x_checkout.html"); ?> 
 <?php include("_bottom_scripts.html"); ?>
 
 </body>
