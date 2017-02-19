@@ -14,18 +14,18 @@ if(isset($_POST['submit'])){
     $pickup_time = $_POST['pickup-time'];
     $dropoff_location = $_POST['dropoff-location'];
     $dropoff_date = $_POST['dropoff-date'];    
-    $dropoff_time = $_POST['dropoff-time'];
+//    $dropoff_time = $_POST['dropoff-time'];
     
-    $age = $_POST['age'];
-    $DriverExperience = $_POST['DriverExperience'];
+//    $age = $_POST['age'];
+//    $DriverExperience = $_POST['DriverExperience'];
     
-    $SuperCDW = $_POST['SuperCDW'];
-    $SuperTP = $_POST['SuperTP'];
-    $childseat = $_POST['childseat'];
-    $GPS = $_POST['GPS'];
-    $addDriver = $_POST['addDriver'];
-    $RoadSafe = $_POST['RoadSafe'];    
-    $Religious = $_POST['Religious'];
+//    $SuperCDW = $_POST['SuperCDW'];
+//    $SuperTP = $_POST['SuperTP'];
+//    $childseat = $_POST['childseat'];
+//    $GPS = $_POST['GPS'];
+//    $addDriver = $_POST['addDriver'];
+//    $RoadSafe = $_POST['RoadSafe'];    
+ //   $Religious = $_POST['Religious'];
     
     $message = $_POST['message'];
    

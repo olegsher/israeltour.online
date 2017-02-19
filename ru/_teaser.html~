@@ -88,8 +88,12 @@
                     <!-- Pick-up location start -->
                     <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span> Pick-up</span>
-                        <input type="text" name="pick-up-location" id="pick-up-location" class="form-control autocomplete-location" placeholder="Откуда выезд">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span> выезд из</span>
+                        <input type="text" name="pick-up-location" id="pick-up-location" class="form-control autocomplete-location" placeholder="">
+                        
+                        
+                        
+                        
                       </div>
                       <!-- Pick-up location end -->
 
@@ -107,7 +111,7 @@
                     <div class="datetime pick-up"><!--  -->
                       <div class="date pull-left">
                         <div class="input-group">
-                          <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span> Начало экскурсии</span>
+                          <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span> Дата</span>
                           <input type="text" name="pick-up-date" id="pick-up-date" class="form-control datepicker" placeholder="mm/dd/yyyy">
                         </div>
                       </div>
@@ -136,7 +140,7 @@
 
                     
 
-                    <input type="submit" class="submit" name="submit" value="continue car reservation" id="checkoutModalLabel">
+                    <input type="submit" class="submit" name="submit" value="запросить информацию" id="checkoutModalLabel">
                   </form>
 
                 </div>

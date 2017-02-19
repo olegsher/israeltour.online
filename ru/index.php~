@@ -19,13 +19,13 @@ if(isset($_POST['submit'])){
     $age = $_POST['age'];
     $DriverExperience = $_POST['DriverExperience'];
     
-    $SuperCDW = $_POST['SuperCDW'];
-    $SuperTP = $_POST['SuperTP'];
-    $childseat = $_POST['childseat'];
-    $GPS = $_POST['GPS'];
-    $addDriver = $_POST['addDriver'];
-    $RoadSafe = $_POST['RoadSafe'];    
-    $Religious = $_POST['Religious'];
+//    $SuperCDW = $_POST['SuperCDW'];
+//    $SuperTP = $_POST['SuperTP'];
+//    $childseat = $_POST['childseat'];
+//    $GPS = $_POST['GPS'];
+//    $addDriver = $_POST['addDriver'];
+//    $RoadSafe = $_POST['RoadSafe'];    
+ //   $Religious = $_POST['Religious'];
     
     $message = $_POST['message'];
    
