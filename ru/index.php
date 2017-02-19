@@ -29,7 +29,7 @@ if(isset($_POST['submit'])){
 				$message .= "<tr><td><strong>Email:</strong> </td><td>" . strip_tags($_POST['email']) . "</td></tr>";
 				$message .= "<tr><td><strong>Phone:</strong> </td><td>" . strip_tags($_POST['telephone']) . "</td></tr>";
 				$message .= "<tr style='background: #eee;'><td><strong>Car Category:</strong> </td><td>" . strip_tags($_POST['car-select']) . "</td></tr>";
-				$message .= "<tr style='background: #eee;'><td><strong>Pickup location:</strong> </td><td>" . strip_tags($_POST['pickup-up-location']) . "</td></tr>";
+				$message .= "<tr style='background: #eee;'><td><strong>Pickup location:</strong> </td><td>" . strip_tags($_POST['car-select']) . "</td></tr>";
 				$message .= "<tr style='background: #eee;'><td><strong>Pickup date:</strong> </td><td>" . strip_tags($_POST['pickup-up-date']) . "</td></tr>";
 				$message .= "<tr style='background: #eee;'><td><strong>Pickup time:</strong> </td><td>" . strip_tags($_POST['pickup-up-time']) . "</td></tr>";
 
