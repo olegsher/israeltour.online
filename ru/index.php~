@@ -22,13 +22,13 @@ if(isset($_POST['submit'])){
             $message .= '<hr />';
             $message .= 'Бронирование экскурсии в Израиле на http://www.israeltour.online +972-58-7710101';
             $message .= '<hr />';
-				$message .= '<img src="http://www.rentcarisrael.online/images/Thrifty-Israel.jpg" alt="Бронирование экскурсии в Израиле +972-58-7710101" />';
+//				$message .= '<img src="http://www.rentcarisrael.online/images/Thrifty-Israel.jpg" alt="Бронирование экскурсии в Израиле +972-58-7710101" />';
 				$message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
 				$message .= "<tr style='background: #eee;'><td><strong>First Name:</strong> </td><td>" . strip_tags($_POST['first_name']) . "</td></tr>";
 				$message .= "<tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td>" . strip_tags($_POST['last_name']) . "</td></tr>";
 				$message .= "<tr><td><strong>Email:</strong> </td><td>" . strip_tags($_POST['email']) . "</td></tr>";
 				$message .= "<tr><td><strong>Phone:</strong> </td><td>" . strip_tags($_POST['telephone']) . "</td></tr>";
-				$message .= "<tr style='background: #eee;'><td><strong>Car Category:</strong> </td><td>" . strip_tags($_POST['car-select']) . "</td></tr>";
+				$message .= "<tr style='background: #eee;'><td><strong>Car Category:</strong> </td><td>" . strip_tags($_POST['tour-select']) . "</td></tr>";
 				$message .= "<tr style='background: #eee;'><td><strong>Pickup location:</strong> </td><td>" . strip_tags($_POST['pick-up-location']) . "</td></tr>";
 				$message .= "<tr style='background: #eee;'><td><strong>Pickup date:</strong> </td><td>" . strip_tags($_POST['pick-up-date']) . "</td></tr>";
 				$message .= "<tr style='background: #eee;'><td><strong>Pickup time:</strong> </td><td>" . strip_tags($_POST['pick-up-time']) . "</td></tr>";
