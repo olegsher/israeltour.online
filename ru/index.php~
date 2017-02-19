@@ -8,10 +8,10 @@ if(isset($_POST['submit'])){
     $last_name = $_POST['last_name'];
     $phone = $_POST['telephone'];
     
-    $car_select = $_POST['car-select'];
-    $pickup_location = $_POST['pick-up-location'];
-    $pickup_date = $_POST['pick-up-date'];
-    $pickup_time = $_POST['pick-up-time'];
+    $car-select = $_POST['car-select'];
+    $pickup-up-location = $_POST['pick-up-location'];
+    $pickup-up-date = $_POST['pick-up-date'];
+    $pickup-up-time = $_POST['pick-up-time'];
 
     
     $message = $_POST['message'];

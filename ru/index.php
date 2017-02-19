@@ -6,15 +6,6 @@ if(isset($_POST['submit'])){
     $from = $_POST['email']; // this is the sender's Email address
     $first_name = $_POST['first_name'];
     $last_name = $_POST['last_name'];
-    $phone = $_POST['telephone'];
-    
-    $car-select = $_POST['car-select'];
-    $pickup-up-location = $_POST['pick-up-location'];
-    $pickup-up-date = $_POST['pick-up-date'];
-    $pickup-up-time = $_POST['pick-up-time'];
-
-    
-    $message = $_POST['message'];
    
 //    $headers = "From:" . $from;
     $headers = "From: " . strip_tags($reqemail) . "\r\n";
