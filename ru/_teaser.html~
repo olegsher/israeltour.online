@@ -139,8 +139,8 @@
                     <!-- Pick-up date/time end -->
                     
                     <div class="form-group">
-                    <input type="text" class="form-control first-name text-field" name="first-name" placeholder="First Name:">
-                    <input type="text" class="form-control last-name text-field" name="last-name" placeholder="Last Name:">
+                    <input type="text" class="form-control first-name text-field" name="first_name" placeholder="First Name:">
+                    <input type="text" class="form-control last-name text-field" name="last_name" placeholder="Last Name:">
                     <div class="clearfix"></div>
                   </div>
 
