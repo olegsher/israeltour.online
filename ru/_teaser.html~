@@ -268,10 +268,37 @@
                     
                     
                     <div class="item">
-                    <h2 class="title">Индивидуальная экскурсия до 7 человек на арендованной машине класса Hyundai i800                     
+                    <h2 class="title">Индивидуальная экскурсия до 7 человек на арендованной машине класса Toyota Sienna LE                     
                       <span class="subtitle wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
                       Услуги профессионального гида - <font color="#FF0000">250USD</font><br>
-                      Аренда автомобиля класса Hyundai i800 - <font color="#FF0000">136USD</font></span></h2>
+                      Аренда автомобиля класса Toyota Sienna LE - <font color="#FF0000">153USD</font></span></h2>
+                      <p>
+                      <hr align="center" width="100%">
+                      <strong>Акция включает: </strong><br>
+                      День работы профессионального гида, <br>
+                      Аренда автомобиля включает все возможные страховки + 250км.<br>
+                      <strong>Не включено: </strong><br>
+                      Расходы на бензин<br>
+                      Посещение платных достопримечательностей(обсуждается с гидом)<br>
+                      НДС<br>
+                      Налог аэропорта<br>
+                      <hr align="center" width="100%">
+                      * Выезд из центра страны<br>
+                      * Цена указана на 8 часовой рабочий день<br>
+                      * Аренда автомобиля из расчета 24 часов<br>
+                      </p>
+                      <div class="car-img">
+                        <!-- <img src="../img/hyundai.png" class="img-responsive" alt="car1"> -->
+                      </div>
+                    </div>
+                    
+                    
+                    
+                    <div class="item">
+                    <h2 class="title">Индивидуальная экскурсия до 8 человек на арендованной машине класса Citroen Jumpy                     
+                      <span class="subtitle wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
+                      Услуги профессионального гида - <font color="#FF0000">250USD</font><br>
+                      Аренда автомобиля класса Citroen Jumpy(механика) - <font color="#FF0000">125USD</font></span></h2>
                       <p>
                       <hr align="center" width="100%">
                       <strong>Акция включает: </strong><br>
@@ -292,6 +319,32 @@
                       </div>
                     </div>
                  
+                 
+                 
+                 <div class="item">
+                    <h2 class="title">Индивидуальная экскурсия до 8 человек на арендованной машине класса Hyundai i800                     
+                      <span class="subtitle wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
+                      Услуги профессионального гида - <font color="#FF0000">250USD</font><br>
+                      Аренда автомобиля класса Hyundai i800 - <font color="#FF0000">165USD</font></span></h2>
+                      <p>
+                      <hr align="center" width="100%">
+                      <strong>Акция включает: </strong><br>
+                      День работы профессионального гида, <br>
+                      Аренда автомобиля включает все возможные страховки + 250км.<br>
+                      <strong>Не включено: </strong><br>
+                      Расходы на бензин<br>
+                      Посещение платных достопримечательностей(обсуждается с гидом)<br>
+                      НДС<br>
+                      Налог аэропорта<br>
+                      <hr align="center" width="100%">
+                      * Выезд из центра страны<br>
+                      * Цена указана на 8 часовой рабочий день<br>
+                      * Аренда автомобиля из расчета 24 часов<br>
+                      </p>
+                      <div class="car-img">
+                        <!-- <img src="../img/hyundai.png" class="img-responsive" alt="car1"> -->
+                      </div>
+                    </div>
                  
                    
                   
