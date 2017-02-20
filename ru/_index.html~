@@ -21,7 +21,7 @@
                       <div class="contact pull-left">Russia (499) 1123-995 | Israel (972) 58-771-0101</div>
                       
                       <!-- Language Switch start -->
-                      <div class="language-switch pull-right">
+                      <!-- <div class="language-switch pull-right">
                           <div class="dropdown">
                                <a data-toggle="dropdown" href="#" id="language-switch-dropdown">Select your language </a> 
                                <ul class="dropdown-menu" role="menu" aria-labelledby="language-switch-dropdown">
@@ -30,7 +30,7 @@
                                   
                               </ul> 
                           </div>
-                      </div>
+                      </div> -->
                       <!-- Language Switch end -->
                   </div>
               </div>
