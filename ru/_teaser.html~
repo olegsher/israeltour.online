@@ -7,15 +7,15 @@
               <!-- Wrapper for slides start -->
               <div class="carousel-inner">
                 <div class="item active">
-                  <h1 class="title">Индивидуальная экскурсия
-                    <span class="subtitle">Любая экскурсия(по согласованию с гидом) на вашей машине(аренда автомобиля в Израиле) всего 250USD</span></h1>
+                  <h2 class="title">Индивидуальная экскурсия по Израилю
+                    <span class="subtitle">Любая экскурсия(по согласованию с гидом) на вашей машине(аренда автомобиля в Израиле) всего 250USD</span></h2>
                     <div class="car-img">
                       <!-- <img src="../img/mazda3.png" class="img-responsive" alt="car1"> -->
                     </div>
                   </div>
                   <div class="item">
-                    <h1 class="title">Индивидуальная экскурсия до 6 человек
-                      <span class="subtitle">Профессиональный гид + машина + водитель</span></h1>
+                    <h2 class="title">Индивидуальная экскурсия до 6 человек (все включено)
+                      <span class="subtitle">Профессиональный гид + машина 7 мест - всего 650USD</span></h2>
                       <div class="car-img">
                         <!-- <img src="../img/hyundai.png" class="img-responsive" alt="car1"> -->
                       </div>
