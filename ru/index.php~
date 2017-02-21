@@ -73,7 +73,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
  <body id="top" data-spy="scroll" data-target=".navbar" data-offset="260">
 
 
-<?php include("_top.html"); ?>
+<?php include("x_top.html"); ?>
 <?php include("_index.html"); ?>
 <?php include("_teaser.html"); ?>
 <?php include("x_services.html"); ?> 
@@ -83,7 +83,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
 
 
 <?php include("x_contacts.html"); ?> 
-<?php include("x_footer.html"); ?> 
+<?php include("_footer.html"); ?> 
 <?php include("x_checkout.html"); ?> 
 <?php include("_bottom_scripts.html"); ?>
 
