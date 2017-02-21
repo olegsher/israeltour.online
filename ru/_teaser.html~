@@ -389,13 +389,15 @@
                         <option value="Индивидуальная экскурсия по Израилю до 7 человек на машине класса Toyota Sienna LE">Индивидуальная экскурсия по Израилю до 7 человек на машине класса Toyota Sienna LE</option>
                         <option value="Индивидуальная экскурсия по Израилю до 8 человек на машине класса Citroen Jumpy">Индивидуальная экскурсия по Израилю до 8 человек на машине класса Citroen Jumpy</option>
                         <option value="Индивидуальная экскурсия по Израилю до 8 человек на машине класса Hyundai i800">Индивидуальная экскурсия по Израилю до 8 человек на машине класса Hyundai i800</option>
+                        
+                        
                       </select>
                     </div>
                     <!-- Car select end -->
 
                     <!-- Pick-up location start -->
-                 <!--    <div class="location">
-                      <div class="input-group pick-up"> -->
+                    <div class="location">
+                      <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span> выезд из</span>
                         <input type="text" name="pick-up-location" id="pick-up-location" class="form-control autocomplete-location" placeholder="">
                         
@@ -412,7 +414,7 @@
                         <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span> Drop-off</span>
                         <input type="text" name="drop-off-location" id="drop-off-location" class="form-control autocomplete-location" placeholder="Enter a City or Airport">
                       </div> -->
-                   <!--  </div>  -->
+                    </div> 
                     <!-- Drop-off location end -->
 
                     <!-- Pick-up date/time start -->
@@ -471,9 +473,10 @@
 
                 </div>
               </div>
-
+ </div>
             </div>
           </div>
+         
         </section>
 <!--        <div class="arrow-down"></div>-->
         <!-- Teaser end -->
