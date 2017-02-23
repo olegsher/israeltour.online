@@ -85,7 +85,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
 <?php include("x_contacts.html"); ?> 
 <?php include("x_footer.html"); ?> 
 <?php include("x_checkout.html"); ?> 
-<?php include("x_bottom_scripts.html"); ?>
+<?php include("_bottom_scripts.html"); ?>
 
 </body>
 </html>
