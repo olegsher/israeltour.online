@@ -104,11 +104,11 @@ header('Location: http://www.israeltour.online/thankyou.php');
 <?php include("__header.html"); ?>
 </head>
 <body>
-<!-- <?php include("__facebook.html"); ?>
-<?php include("__google.html"); ?>
-<?php include("__mailru.html"); ?>
-<?php include("__yandex.html"); ?>
-<?php include("__shema.html"); ?> -->
+<?php include("x__facebook.html"); ?>
+<?php include("x__google.html"); ?>
+<?php include("x__mailru.html"); ?>
+<?php include("x__yandex.html"); ?>
+<?php include("x__shema.html"); ?> 
 
 <?php include("__top.html"); ?>
 <?php include("_index.php"); ?>

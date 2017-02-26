@@ -39,10 +39,10 @@ if(isset($_POST['submit'])){
     $headers .= "Content-Type: text/html; charset=utf-8\r\n";
     
     
-    $subject = $_POST['First_name'] . " " . $_POST['Last_name'] . " " . $_POST['car-select'] . " " . "rentcarisrael.online";    
+    $subject = $_POST['First_name'] . " " . $_POST['Last_name'] . " " . $_POST['car-select'] . " " . "israeltour.online";    
             $message = '<html lang="ru"><body>';
             $message .= '<hr />';
-            $message .= 'Бронирование автомобиля в Израиле на http://www.israeltour.online +972-58-7710101';
+            $message .= 'Бронирование экскурсии в Израиле на http://www.israeltour.online +972-58-7710101';
             $message .= '<hr />';
 $message .= '<img src="http://www.israeltour.online/images/Thrifty-Israel.jpg" alt="Бронирование индивидуальной экскурсии в Израиле +972-58-7710101" />';
 $message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
@@ -73,7 +73,7 @@ $message .= "</body></html>";
 
      mail($to,$subject,$message,$headers);
     
-    $subject2 = "Ваше бронирование автомобиля в Израиле на http://www.israeltour.online +972-58-7710101";
+    $subject2 = "Ваше бронирование экскурсии в Израиле на http://www.israeltour.online +972-58-7710101";
     $headers2 = "From: " . strip_tags($reqemail) . "\r\n";
     $headers2 .= "Reply-To: ". strip_tags($reqemail) . "\r\n";
     $headers .= "CC: office@vastama.com\r\n";
@@ -82,24 +82,24 @@ $message .= "</body></html>";
     $headers2 .= "Content-Type: text/html; charset=utf-8\r\n";
     // $message2 = "test";
    mail($from,$subject2,$message,$headers2); // sends a copy of the message to the sender  
-header('Location: http://www.rentcarisrael.online/thankyou.php');
+header('Location: http://www.israeltour.online/thankyou.php');
     }
 ?>
 <!DOCTYPE HTML>
 <html lang="ru">
 <head>
-<title>Недорогая аренда прокат автомобиля в Израиле | RentCarIsrael.online</title>
-<meta name="keywords" content="машина прокат, машина прокат Израиле, аренда машины Израиль, avto prokat, prokat mashin, auto arenda, прокат аренда машин, где можно взять машину напрокат, заказать машину, аренда иномарок, arenda avto, стоимость аренды машины, израиль прокат автомобилей, съем машины Израиле, аренда авто, прокат машины, сьем автомобиля,автомобиль,  машина Израиле, дешевый прокат автомобиля" />
-<meta  name="description"  content="аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест" />
+<title>Индивидуальные экскурсии по Израилю | IsraelTour.online</title>
+<meta name="keywords" content="" />
+<meta  name="description"  content="" />
 <meta property="fb:app_id" content="1322511981092474" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="ru_RU" />
-<meta property="og:url" content="http://www.rentcarisrael.online" />
-<meta property="og:image" content="http://www.rentcarisrael.online/images/thankyoucar.png"/>
+<meta property="og:url" content="http://www.israeltour.online" />
+<meta property="og:image" content="http://www.israeltour.online/images/thankyoucar.png"/>
 <meta property="og:image:type" content="image/png" />
 <meta property="og:image:width" content="640" />
 <meta property="og:image:height" content="320" />
-<meta property="og:title" content="Аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны" />
+<meta property="og:title" content="" />
 <meta property="og:description" content="Лучшие цены, нет предоплаты, заказ онлайн, Whatsapp/Viber +972-58-7710101"/>
 <?php include("__header.html"); ?>
 </head>
