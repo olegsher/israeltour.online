@@ -3,11 +3,9 @@
 <!--		<i class="fa fa-columns"></i>-->
 <i> <img src="images/israel.png" alt="БРОНИРОВАНИЕ ЭКСКУРСИИ В ИЗРАИЛЕ ЗА ОДИН ШАГ" class="img-responsive" /></i>
 		<h3>БРОНИРОВАНИЕ ЭКСКУРСИИ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h3>
-                
+           
                     
-    <hr /><a  href="http://www.privateisrael.com/%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-%D0%BC%D0%B8%D0%BD%D0%B8%D0%B2%D1%8D%D0%BD%D0%B0-%D0%B2-%D0%B8%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5/">Прокат минивэнов по лучшей в Израиле цене</a>
-    <hr /><a  href="http://www.privateisrael.com/blog/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8-%D0%BB%D1%8E%D0%BA%D1%81-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0/">Прокат машин люкс класса на однодневные экскурсии</a>
-    <hr /><a  href="http://www.rentcarisrael.online/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a>
+    
     <hr />Выезд из всех крупных городов Израиля
     <hr />Профессиональные частные гиды с официальной лицензией
     <hr />Цена всего 250USD за экскурсию      
@@ -90,7 +88,9 @@
     <hr />
     * Указанная цена  250USD для заказывающих экскурсию на своей(арендованной ) машине <br />
     * Оплата напрямую гиду <br />
-    
+    <hr /><a  href="http://www.privateisrael.com/%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-%D0%BC%D0%B8%D0%BD%D0%B8%D0%B2%D1%8D%D0%BD%D0%B0-%D0%B2-%D0%B8%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5/">Прокат минивэнов по лучшей в Израиле цене</a>
+    <hr /><a  href="http://www.privateisrael.com/blog/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8-%D0%BB%D1%8E%D0%BA%D1%81-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0/">Прокат машин люкс класса на однодневные экскурсии</a>
+    <hr /><a  href="http://www.rentcarisrael.online/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a>
     
     <div class="clearfix"></div>
 
