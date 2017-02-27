@@ -85,6 +85,46 @@
 
 
 	</div>
+	
+	
+	<div class="rupes">
+		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
+			<div class="rup-left">
+				<img src="http://www.rentcarisrael.online/images/catZ.jpg" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+			</div>
+			<div class="rup-rgt">
+				<h3>Принимаем основные кредитные карты</h3>
+				<h4><a href="">Нет предоплаты, возможна оплата наличными</a></h4>
+				<p>при возврате машины</p>
+			</div>
+				<div class="clearfix"></div>
+		</div>
+		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
+			<div class="rup-left">
+				<img src="http://www.rentcarisrael.online/images/catW.jpg" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+			
+			</div>
+			<div class="rup-rgt">
+				<h3>Безлимитный километраж</h3>
+				<h4><a href="">На все категории машин</a></h4>
+				<p>при заказе 3-30 дней</p>
+			</div>
+				<div class="clearfix"></div>
+		</div>
+		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
+			<div class="rup-left">
+				<img src="http://www.rentcarisrael.online/images/action.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+			</div>
+			<div class="rup-rgt">
+				<h3><a href="tours.php">Экскурсия на машине клиента всего 250$</a></h3>
+				<h4><a href="tours.php">от лицензированного гида</a></h4>
+				<p>при заказе аренды машины на нашем сайте</p>
+			</div>
+				<div class="clearfix"></div>
+		</div>
+		<div class="clearfix"></div>    
+    
+    </div>
     <hr />
     * Указанная цена  250USD для заказывающих экскурсию на своей(арендованной ) машине <br />
     * Оплата напрямую гиду <br />
