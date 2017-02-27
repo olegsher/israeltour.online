@@ -1,12 +1,12 @@
 <div class="container">
 	<div class="col-md-5 bann-info1 wow fadeInLeft animated" data-wow-delay=".5s">
 <!--		<i class="fa fa-columns"></i>-->
-<i> <img src="images/Thrifty-Israel.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" /></i>
+<i> <img src="images/israel.png" alt="БРОНИРОВАНИЕ ЭКСКУРСИИ В ИЗРАИЛЕ ЗА ОДИН ШАГ" class="img-responsive" /></i>
 		<h3>БРОНИРОВАНИЕ ЭКСКУРСИИ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h3>
                 
                     
-    <hr /><a  href="http://www.rentcarisrael.online/minivan.php">Прокат минивэнов</a>
-    <hr /><a  href="http://www.rentcarisrael.online/tours.php">Акция для клиентов - Частный гид за 250$</a>
+    <hr /><a  href="http://www.rentcarisrael.online/minivan.php">Прокат минивэнов по лучшей в Израиле цене</a>
+    <hr /><a  href="http://www.rentcarisrael.online/tours.php">Прокат машин люкс класса на однодневные экскурсии</a>
     <hr /><a  href="http://www.rentcarisrael.online/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a>
     <hr />Выезд из всех крупных городов Израиля
     <hr />Профессиональные частные гиды с официальной лицензией
@@ -26,7 +26,7 @@
 				<label class="inputLabel">Выбирайте категорию экскурсий</label>
                                 <!-- Car select start -->
                         
-						 <select onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Выбирайте машину';}" name="car-select" id="car-select" required = "required" autofocus>
+						 <select onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}" name="car-select" id="car-select" required = "required" autofocus>
                             <option value="" >Категории экскурсий</option>							
 							<option value="Category Q" >Иерусалим по вашим заявкам - 250USD</option>
 							<option value="Category B" >Эксклюзивные экскурсии по Иерусалиму от наших гидов - 250USD</option>
