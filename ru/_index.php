@@ -27,15 +27,20 @@
                                 <!-- Car select start -->
                         
 						 <select onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}" name="tour-select" id="tour-select" required = "required" autofocus>
-                            <option value="" >Категории экскурсий</option>							
-							<option value="Category Q" >Иерусалим по вашим заявкам - 250USD</option>
-							<option value="Category B" >Эксклюзивные экскурсии по Иерусалиму от наших гидов - 250USD</option>
-							<option value="Category C" >Израиль Иудейский  - 250USD</option>
-							<option value="Category D" >Израиль Христианский - 250USD </option>
-							<option value="Category E" >Израиль Мусульманский - 250USD</option>
-							<option value="Category F" >Израиль трех религий - 250USD</option>							
-							<option value="Category I" >Израиль ознакомительный - 250USD</option>
-							<option value="Category H" >Эксклюзивные экскурсии по Израилю от наших гидов - 250USD</option>							
+                            							
+							<option value="Иерусалим по вашим заявкам - 250USD" >Иерусалим по вашим заявкам - 250USD</option>
+							
+							<option value="Израиль Иудейский  - 250USD" >Израиль Иудейский  - 250USD</option>
+							<option value="Израиль Христианский - 250USD" >Израиль Христианский - 250USD </option>
+							<option value="Израиль Мусульманский - 250USD" >Израиль Мусульманский - 250USD</option>
+							<option value="Израиль трех религий - 250USD" >Израиль трех религий - 250USD</option>							
+							<option value="Израиль ознакомительный - 250USD" >Израиль ознакомительный - 250USD</option>
+							<option value="Израиль исторический - 250USD" >Израиль исторический - 250USD</option>
+							<option value="Израиль культурный - 250USD" >Израиль культурный - 250USD</option>
+							<option value="Израиль гастрономический - 250USD" >Израиль гастрономический - 250USD</option>
+							
+							<option value="Эксклюзивные экскурсии по Иерусалиму от наших гидов - 250USD" >Эксклюзивные экскурсии по Иерусалиму от наших гидов - 250USD</option>
+							<option value="Эксклюзивные экскурсии по Израилю от наших гидов - 250USD" >Эксклюзивные экскурсии по Израилю от наших гидов - 250USD</option>							
 						</select>
                              <br />
                       </div>
