@@ -2,15 +2,15 @@
 	<div class="col-md-5 bann-info1 wow fadeInLeft animated" data-wow-delay=".5s">
 <!--		<i class="fa fa-columns"></i>-->
 <i> <img src="images/Thrifty-Israel.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" /></i>
-		<h3>БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h3>
+		<h3>БРОНИРОВАНИЕ ЭКСКУРСИИ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h3>
                 
                     
     <hr /><a  href="http://www.rentcarisrael.online/minivan.php">Прокат минивэнов - наш бизнес</a>
     <hr /><a  href="http://www.rentcarisrael.online/tours.php">Акция для клиентов - Частный гид за 250$</a>
     <hr /><a  href="http://www.rentcarisrael.online/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a>
-    <hr />Отделения во всех крупных городах Израиля
-    <hr />Неограниченный километраж при заказе 3-30 дней
-    <hr />Огромные скидки при заказе 30+ дней      
+    <hr />Выезд из всех крупных городов Израиля
+    <hr />Профессиональные частные гиды с официальной лицензией
+    <hr />Цена всего 250USD за экскурсию      
 
                 
                 
@@ -27,31 +27,15 @@
                                 <!-- Car select start -->
                         
 						 <select onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Выбирайте машину';}" name="car-select" id="car-select" required = "required" autofocus>
-                            <option value="" >Категории автомобилей</option>							
-							<option value="Category Q" >Smart Fortwo(два места) или похожая в категории Q - от 24$ в сутки(франшиза - 475$)</option>
-							<option value="Category B" >Suzuki Alto(ручник) или похожая в категории B - от 24$ в сутки(франшиза - 475$)</option>
-							<option value="Category C" >Toyota Aygo(робот) или похожая в категории C - от 25$ в сутки(франшиза - 475$)</option>
-							<option value="Category D" >Hyundai i20(автомат) или похожая в категории D - от 26$ в сутки(франшиза - 475$)</option>
-							<option value="Category E" >Ford Fiesta(автомат) или похожая в категории E - от 27$ в сутки(франшиза - 475$)</option>
-							<option value="Category F" >Kia Forte(автомат) или похожая в категории F - от 30$ в сутки(франшиза - 475$)</option>							
-							<option value="Category I" >Mazda 3(автомат) или похожая в категории I - от 32$ в сутки(франшиза - 475$)</option>
-							<option value="Category H" >Honda Civic(автомат) или похожая в категории H - от 41$ в сутки(франшиза - 715$)</option>
-							<option value="Category M" >Mazda 6(автомат) или похожая в категории M - от 47$ в сутки(франшиза - 715$)</option>
-<!--                                                    <option value="Category FH" >Honda Insight Hybrid или похожая в категории - от 17$ в сутки</option>-->
-							<option value="Category MH" >Honda Accord Hybrid(автомат) или похожая в категории MH - от 57$ в сутки(франшиза - 715$)</option>
-							<option value="Category T" >Fiat Doblo(ручник, 5 мест) или похожая в категории T - от 60$ в сутки(франшиза - 475$)</option>
-							<option value="Category J" >Nissan Qashqai(автомат, 5 мест) или похожая в категории J - от 63$ в сутки(франшиза - 715$)</option>
-							<option value="Category U" >Mazda 5(автомат, 7 мест) или похожая в категории U - от 60$ в сутки(франшиза - 715$)</option>
-                            <option value="Category V" >Ford Galaxy V(автомат, 7 мест) или похожая в категории V - от 77$ в сутки(франшиза - 960$)</option>
-                            <option value="Category S" >Hyundai i800(ручник, 8 мест) или похожая в категории S - от 104$ в сутки(франшиза - 960$)</option>
-                            <option value="Category V8" >Toyota Sienna(автомат, 8 мест) или похожая в категории V8 - от 120$ в сутки(франшиза - 960$)</option>
-                            <option value="Category Y" >Citroen Jumpy(ручник, 9 мест)или похожая в категории Y - от 94$ в сутки(франшиза - 960$)</option>
-							<option value="Category Z" >Hyundai i800(автомат, 9 мест) или похожая в категории Z - от 131$ в сутки(франшиза - 960$)</option>
-<!--                                                        <option value="Category R" >Chevrolet Malibu или похожая в категории R - от 52$ в сутки</option>-->
-                            <option value="Category P" >Buick LaCrosse(автомат) или похожая в категории P - от 116$ в сутки(франшиза - 960$)</option>
-							<option value="Category K" >BMW 318i(автомат) или похожая в категории K - от 84$ в сутки(франшиза - 960$)</option>
-							<option value="Category W" >BMW i535(автомат) или похожая в категории W - от 155$ в сутки(франшиза - 960$)</option>
-							<option value="Category O" >Toyota Highlander(автомат) или похожая в категории O - от 174$ в сутки(франшиза - 960$)</option>
+                            <option value="" >Категории экскурсий</option>							
+							<option value="Category Q" >Иерусалим по вашим заявкам - 250USD</option>
+							<option value="Category B" >Эксклюзивные экскурсии по Иерусалиму от наших гидов - 250USD</option>
+							<option value="Category C" >Израиль Иудейский  - 250USD</option>
+							<option value="Category D" >Израиль Христианский - 250USD </option>
+							<option value="Category E" >Израиль Мусульманский - 250USD</option>
+							<option value="Category F" >Израиль трех религий - 250USD</option>							
+							<option value="Category I" >Израиль ознакомительный - 250USD</option>
+							<option value="Category H" >Эксклюзивные экскурсии по Израилю от наших гидов - 250USD</option>							
 						</select>
                              <br />
                       </div>
@@ -63,8 +47,8 @@
 				<label class="inputLabel">Аренда</label>
 <!--				<input class="city" type="text" value="Отделение" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter a city';}" required=>-->
                                 <select class="city" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Отделение';}"  name="pickup-location" id="pickup-location" required = "required">
-                                        <option value="">Отделение</option>
-                                        <option value="Аэропорт Бен Гурион">Аэропорт Бен Гурион</option>
+                                        <option value="">Выезд из</option>
+                                       
                                         <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
                                         <option value="Тель Авив, ул. ха-Масгер, 9">Тель Авив, ул. ха-Масгер, 9</option>
                                         <option value="Иерусалим, ул. Кинг Давид, 19">Иерусалим, ул. Кинг Давид, 19</option>
@@ -93,38 +77,7 @@
 			</div>
 				
                     
-                        <div class="bnr-right">
-				<label class="inputLabel">Возврат</label>				
-<!--				<input class="city" type="text" value="Отделение" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter a city';}" required=>-->
-                                <select class="city" onfocus="this.value = '';"   name="dropoff-location" id="dropoff-location" required = "required">
-                                        <option value="">Отделение</option>
-                                        <option value="Аэропорт Бен Гурион">Аэропорт Бен Гурион</option>
-                                        <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
-                                        <option value="Тель Авив, ул. ха-Масгер, 9">Тель Авив, ул. ха-Масгер, 9</option>
-                                        <option value="Иерусалим, ул. Кинг Давид, 19">Иерусалим, ул. Кинг Давид, 19</option>
-                                        <option value="Хайфа, шдерот ха-Гистадрут, 88">Хайфа, шдерот ха-Гистадрут, 88</option>
-                                        <option value="Нетания, ул. Усишкин, 1">Нетания, ул. Усишкин, 1</option>
-                                        <option value="Тверия, ул. ха-Ярден, 71">Тверия, ул. ха-Ярден, 71</option>
-                                        <option value="Эйлат, ул. Шешет ха-Ямим, 3">Эйлат, ул. Шешет ха-Ямим, 3</option>								
-                                        <option value="Афула, ул. Менахем Бегин, 70">Афула, ул. Менахем Бегин, 70</option>
-                                        <option value="Ашдод, ул. ха-Оргим, 7">Ашдод, ул. ха-Оргим, 7</option>
-                                        <option value="Беэр Шева, дерех Хеврон, 129">Беэр Шева, дерех Хеврон, 129</option>
-                                        <option value="Бейт Шемеш, ул. Нахалат Зоар, 10">Бейт Шемеш, ул. Нахалат Зоар, 10</option>
-                                        <option value="Бней Брак, ул. Каханман, 106">Бней Брак, ул. Каханман, 106</option>
-                                        <option value="Бней Брак, ул. Мивца Кадош, 64">Бней Брак, ул. Мивца Кадош, 64</option>
-                                        <option value="Герцелия, ул. Аба Евен, 8">Герцелия, ул. Аба Евен, 8</option>
-                                        <option value="Холон, ул. ха-Меркава, 73">Холон, ул. ха-Меркава, 73</option>
-                                        <option value="Кфар Саба, ул. ха-Таяс, 17">Кфар Саба, ул. ха-Таяс, 17</option>								
-                                        <option value="Кирьят Шмона, ул. ха-Ярден, 1">Кирьят Шмона, ул. ха-Ярден, 1</option>
-                                        <option value="Нес Циона, ул. ха-Патиш, 10">Нес Циона, ул. ха-Патиш, 10</option>
-                                        <option value="Петах Тиква, ул. Жаботински, 82">Петах Тиква, ул. Жаботински, 82</option>
-                                        <option value="Реховот, ул. Герцль, 96">Реховот, ул. Герцль, 96</option>
-                                        <option value="Ришон ле-Цион, ул. Сахаров, 14">Ришон ле-Цион, ул. Сахаров, 14</option>
-                                </select>
-                                <input name="dropoff-date" type="date"  min="2016-10-02" required = "required">
-                                <input type="time" name="dropoff-time" id="dropoff-time" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'hh:mm';}" required = "required">
-                        
-			</div>
+          
 <!--				<div class="clearfix"></div>-->
 		</div>
 		<div class="ban-bottom">
