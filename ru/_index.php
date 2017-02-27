@@ -5,8 +5,8 @@
 		<h3>БРОНИРОВАНИЕ ЭКСКУРСИИ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h3>
                 
                     
-    <hr /><a  href="http://www.rentcarisrael.online/minivan.php">Прокат минивэнов по лучшей в Израиле цене</a>
-    <hr /><a  href="http://www.rentcarisrael.online/tours.php">Прокат машин люкс класса на однодневные экскурсии</a>
+    <hr /><a  href="http://www.privateisrael.com/%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-%D0%BC%D0%B8%D0%BD%D0%B8%D0%B2%D1%8D%D0%BD%D0%B0-%D0%B2-%D0%B8%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5/">Прокат минивэнов по лучшей в Израиле цене</a>
+    <hr /><a  href="http://www.privateisrael.com/blog/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8-%D0%BB%D1%8E%D0%BA%D1%81-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0/">Прокат машин люкс класса на однодневные экскурсии</a>
     <hr /><a  href="http://www.rentcarisrael.online/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a>
     <hr />Выезд из всех крупных городов Израиля
     <hr />Профессиональные частные гиды с официальной лицензией
@@ -83,81 +83,24 @@
 
 	</div>
     <hr />
-    ** Указанная цена  250USD для заказывающих экскурсию на своей(арендованной) машине <br />
+    * Указанная цена  250USD для заказывающих экскурсию на своей(арендованной) машине <br />
     * Оплата напрямую гиду <br />
     
     
     <div class="clearfix"></div>
 
-<div class="rupes">
-		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
-			<div class="rup-left">
-				<img src="images/creditcards.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
-			</div>
-			<div class="rup-rgt">
-				<h3>Принимаем основные кредитные карты</h3>
-				<h4><a href="">Нет предоплаты, возможна оплата наличными</a></h4>
-				<p>при возврате машины</p>
-			</div>
-				<div class="clearfix"></div>
-		</div>
-		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
-			<div class="rup-left">
-				<img src="images/car.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
-			
-			</div>
-			<div class="rup-rgt">
-				<h3>Безлимитный километраж</h3>
-				<h4><a href="">На все категории машин</a></h4>
-				<p>при заказе 3-30 дней</p>
-			</div>
-				<div class="clearfix"></div>
-		</div>
-		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
-			<div class="rup-left">
-				<img src="images/guide.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
-			</div>
-			<div class="rup-rgt">
-				<h3><a href="tours.php">Экскурсия на машине клиента всего 250$</a></h3>
-				<h4><a href="tours.php">от лицензированного гида</a></h4>
-				<p>при заказе аренды машины на нашем сайте</p>
-			</div>
-				<div class="clearfix"></div>
-		</div>
-		<div class="clearfix"></div>    
-    
-    </div>
+
 
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
 <img src="images/catJ.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
-<!--<script type="text/javascript" src="https://zadarma.com/swfobject.js"></script>
-<script type="text/javascript">
-        var flashvars = {};
-        flashvars.phone="61919";
-        flashvars.img1="https://zadarma.com/images/but/call3_green_ru_free.png";
-        flashvars.img2="https://zadarma.com/images/but/call2_green_ru_connecting.png";
-        flashvars.img3="https://zadarma.com/images/but/call2_green_ru_reset.png";
-        flashvars.img4="https://zadarma.com/images/but/call2_green_ru_error.png";
-        var params = {};
-        params.wmode="transparent";
-        var attributes = {};
-        swfobject.embedSWF("js/pbutton.swf", "myAlternativeContent", "215", "138", "9.0.0", false, flashvars, params, attributes);
-</script>
-<div id="myAlternativeContent">
-    <a href="http://www.adobe.com/go/getflashplayer">
-        <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
-    </a>
-</div>-->
-    <br /><h2>ЕСТЬ ВОПРОСЫ ПО АРЕНДЕ?</h2>
+
+    <br /><h2>ЕСТЬ ВОПРОСЫ ПО ЭКСКУРСИЯМ?</h2>
 </div> 
-<br />Хотите уточнить нужно ли вам детское кресло?
-<br />Какой залог будет закрыт на вашей кредитной карточке? 
-<br />Будет ли добавлен НДС к вашему заказу?
-<br />Эти все другие вопросы будут разрешены если вы свяжитесь с нами
- <br /><img src="images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в Израиле +972-58-7710101
- <br /><img src="images/whatsapp.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> WhatsApp +972-58-7710101
- <br /><img src="images/viber.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Viber +972-58-7710101
- <br /><img src="images/mail.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Почта rentcar@vastama.com
+<br />Наши гиды ответят на любой ваш вопрос
+ <br /><img src="images/phone.gif" alt="Позвоните Vastama по экскурсиям в Израиле" /> Телефон в Израиле +972-58-7710101
+ <br /><img src="images/whatsapp.png" alt="Позвоните Vastama по экскурсиям в Израиле" /> WhatsApp +972-58-7710101
+ <br /><img src="images/viber.png" alt="Позвоните Vastama по экскурсиям в Израиле" /> Viber +972-58-7710101
+ <br /><img src="images/mail.gif" alt="Позвоните Vastama по экскурсиям в Израиле" /> Почта admin@vastama.com
  <br />говорим по русски
  <hr />
  <div class="fb-like" data-href="https://www.facebook.com/vastama.israel/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
