@@ -95,7 +95,7 @@
 				<img src="http://www.rentcarisrael.online/images/catZ.jpg" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
-				<h3>Прокат минивэнов по лучшей в Израиле цене</h3>
+				<h3>Прокат минивэнов на однодневные экскурсии</h3>
 				<h4><a href="">Нет предоплаты, возможна оплата наличными</a></h4>
 				<p>при возврате машины</p>
 			</div>
@@ -118,7 +118,7 @@
 				<img src="http://www.rentcarisrael.online/images/action.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
-				<h3><a href="tours.php">Экскурсия на машине клиента всего 250$</a></h3>
+				<h3><a href="tours.php">Прокат машин люкс класса на однодневные экскурсии</a></h3>
 				<h4><a href="tours.php">от лицензированного гида</a></h4>
 				<p>при заказе аренды машины на нашем сайте</p>
 			</div>
@@ -137,7 +137,7 @@
 				<img src="http://www.rentcarisrael.online/images/catZ.jpg" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
-				<h3>Прокат минивэнов по лучшей в Израиле цене</h3>
+				<h3>Прокат машин люкс класса на однодневные экскурсии</h3>
 				<h4><a href="">Нет предоплаты, возможна оплата наличными</a></h4>
 				<p>при возврате машины</p>
 			</div>
@@ -160,7 +160,7 @@
 				<img src="http://www.rentcarisrael.online/images/action.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
-				<h3><a href="tours.php">Экскурсия на машине клиента всего 250$</a></h3>
+				<h3><a href="tours.php">Прокат машин люкс класса на однодневные экскурсии</a></h3>
 				<h4><a href="tours.php">от лицензированного гида</a></h4>
 				<p>при заказе аренды машины на нашем сайте</p>
 			</div>
