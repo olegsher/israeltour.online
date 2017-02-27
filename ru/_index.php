@@ -5,7 +5,7 @@
 		<h3>БРОНИРОВАНИЕ ЭКСКУРСИИ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h3>
                 
                     
-    <hr /><a  href="http://www.rentcarisrael.online/minivan.php">Прокат минивэнов - наш бизнес</a>
+    <hr /><a  href="http://www.rentcarisrael.online/minivan.php">Прокат минивэнов</a>
     <hr /><a  href="http://www.rentcarisrael.online/tours.php">Акция для клиентов - Частный гид за 250$</a>
     <hr /><a  href="http://www.rentcarisrael.online/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a>
     <hr />Выезд из всех крупных городов Израиля
@@ -16,14 +16,14 @@
                 
 	</div>
 	<div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
-		<h1>Заполните форму и получите ваучер на почту</h1>
-                <p style="color:red;" >Нет скрытых платежей, обязательные страховки включены. 
+		<h1>Заполните форму и частный гид свяжется с вами для назначения экскурсии</h1>
+                <p style="color:red;" >Нет скрытых платежей, нет посредников, оплата напрямую гиду. 
                     <br />Нет предоплаты, нет платы за изменение или отмену заказа </p>
                 <br />
                 <form id="contactform" method="post">
 		<div class="ban-top">
 			<div class="bnr-left">
-				<label class="inputLabel">Выбирайте класс автомобиля</label>
+				<label class="inputLabel">Выбирайте категорию экскурсий</label>
                                 <!-- Car select start -->
                         
 						 <select onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Выбирайте машину';}" name="car-select" id="car-select" required = "required" autofocus>
