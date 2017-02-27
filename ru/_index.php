@@ -88,9 +88,9 @@
     <hr />
     * Указанная цена  250USD для заказывающих экскурсию на своей(арендованной ) машине <br />
     * Оплата напрямую гиду <br />
-    <hr /><a  href="http://www.privateisrael.com/%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-%D0%BC%D0%B8%D0%BD%D0%B8%D0%B2%D1%8D%D0%BD%D0%B0-%D0%B2-%D0%B8%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5/">Прокат минивэнов по лучшей в Израиле цене</a>
-    <hr /><a  href="http://www.privateisrael.com/blog/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8-%D0%BB%D1%8E%D0%BA%D1%81-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0/">Прокат машин люкс класса на однодневные экскурсии</a>
-    <hr /><a  href="http://www.rentcarisrael.online/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a>
+    <hr /><img src="http://www.rentcarisrael.online/images/catZ.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" /><a  href="http://www.privateisrael.com/%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-%D0%BC%D0%B8%D0%BD%D0%B8%D0%B2%D1%8D%D0%BD%D0%B0-%D0%B2-%D0%B8%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5/">Прокат минивэнов по лучшей в Израиле цене</a>
+    <hr /><img src="http://www.rentcarisrael.online/images/catW.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" /><a  href="http://www.privateisrael.com/blog/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8-%D0%BB%D1%8E%D0%BA%D1%81-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0/">Прокат машин люкс класса на однодневные экскурсии</a>
+    <hr /><img src="http://www.rentcarisrael.online/images/action.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" /><a  href="http://www.rentcarisrael.online/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a>
     
     <div class="clearfix"></div>
 
