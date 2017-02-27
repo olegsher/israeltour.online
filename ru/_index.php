@@ -97,7 +97,7 @@
 
 
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
-<img src="images/catJ.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
+<img src="http://www.rentcarisrael.online/images/catZ.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
 
     <br /><h2>ЕСТЬ ВОПРОСЫ ПО ЭКСКУРСИЯМ?</h2>
 </div> 
