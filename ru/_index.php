@@ -43,38 +43,7 @@
                      <div class="clearfix"></div>
                       <hr />  
                     
-                        <div class="bnr-left">
-				<label class="inputLabel">Аренда</label>
-<!--				<input class="city" type="text" value="Отделение" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter a city';}" required=>-->
-                                <select class="city" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Отделение';}"  name="pickup-location" id="pickup-location" required = "required">
-                                        <option value="">Выезд из</option>
-                                       
-                                        <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
-                                        <option value="Тель Авив, ул. ха-Масгер, 9">Тель Авив, ул. ха-Масгер, 9</option>
-                                        <option value="Иерусалим, ул. Кинг Давид, 19">Иерусалим, ул. Кинг Давид, 19</option>
-                                        <option value="Хайфа, шдерот ха-Гистадрут, 88">Хайфа, шдерот ха-Гистадрут, 88</option>
-                                        <option value="Нетания, ул. Усишкин, 1">Нетания, ул. Усишкин, 1</option>
-                                        <option value="Тверия, ул. ха-Ярден, 71">Тверия, ул. ха-Ярден, 71</option>
-                                        <option value="Эйлат, ул. Шешет ха-Ямим, 3">Эйлат, ул. Шешет ха-Ямим, 3</option>								
-                                        <option value="Афула, ул. Менахем Бегин, 70">Афула, ул. Менахем Бегин, 70</option>
-                                        <option value="Ашдод, ул. ха-Оргим, 7">Ашдод, ул. ха-Оргим, 7</option>
-                                        <option value="Беэр Шева, дерех Хеврон, 129">Беэр Шева, дерех Хеврон, 129</option>
-                                        <option value="Бейт Шемеш, ул. Нахалат Зоар, 10">Бейт Шемеш, ул. Нахалат Зоар, 10</option>
-                                        <option value="Бней Брак, ул. Каханман, 106">Бней Брак, ул. Каханман, 106</option>
-                                        <option value="Бней Брак, ул. Мивца Кадош, 64">Бней Брак, ул. Мивца Кадош, 64</option>
-                                        <option value="Герцелия, ул. Аба Евен, 8">Герцелия, ул. Аба Евен, 8</option>
-                                        <option value="Холон, ул. ха-Меркава, 73">Холон, ул. ха-Меркава, 73</option>
-                                        <option value="Кфар Саба, ул. ха-Таяс, 17">Кфар Саба, ул. ха-Таяс, 17</option>								
-                                        <option value="Кирьят Шмона, ул. ха-Ярден, 1">Кирьят Шмона, ул. ха-Ярден, 1</option>
-                                        <option value="Нес Циона, ул. ха-Патиш, 10">Нес Циона, ул. ха-Патиш, 10</option>
-                                        <option value="Петах Тиква, ул. Жаботински, 82">Петах Тиква, ул. Жаботински, 82</option>
-                                        <option value="Реховот, ул. Герцль, 96">Реховот, ул. Герцль, 96</option>
-                                        <option value="Ришон ле-Цион, ул. Сахаров, 14">Ришон ле-Цион, ул. Сахаров, 14</option>
-                                </select>
-                                <input name="pickup-date" type="date"  min="2016-10-02" required = "required">
-                                <input type="time" name="pickup-time" id="pickup-time"  required = "required" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'hh:mm';}">
-			
-			</div>
+                        
 				
                     
           
@@ -86,31 +55,24 @@
 
                        
                            <hr />
-                        Имя <input type="text" name="First_name" placeholder="на английском" required = "required">
-                        Фамилия <input type="text" name="Last_name" placeholder="на английском" required = "required"> <br />
-                        Почта <input type="email" name="email" placeholder="на нее придет ваучер" required = "required">
-                        Телефон <input type="text" name="phone" placeholder="включая код страны" required = "required"> <br />
-                        Возраст водителя <input type="number" name="age" min="21" max="70" placeholder="от 21" required = "required"> 
-                        Стаж вождения <input type="number" name="DriverExperience" min="1" max="70" placeholder="" required = "required"> 
+                        Имя <input type="text" name="First_name" placeholder="" required = "required">
+                        Фамилия <input type="text" name="Last_name" placeholder="" required = "required"> <br />
+                        Почта <input type="email" name="email" placeholder="на нее придет ваучер">
+                        Телефон <input type="text" name="phone" placeholder="включая код страны"> <br />
+                        WhatsApp <input type="text" name="whatsapp" placeholder="включая код страны"> <br />
+                        Viber <input type="text" name="viber" placeholder="включая код страны"> <br />
+                        Skype <input type="text" name="skype" placeholder="" > <br />
+                        
                         
 		</div>
 
                             <hr />
-                        <input type="checkbox" name="SuperCDW" value="V"> Добавить отмену личного участия при повреждении машины<br>
-                        <input type="checkbox" name="SuperTP" value="V"> Добавить отмену личного участия при угоне машины<br>
-                        <input type="checkbox" name="childseat" value="V"> Детское сидение 5$ в день(максимум 50$)<br>
-                        <input type="checkbox" name="GPS" value="V"> Навигатор 10$ в день(максимум 75$)<br>
-<!--                        <input type="checkbox" name="youngDriver" value="youngDriver"> Молодой водитель, менее года<br>-->
-                        <input type="checkbox" name="addDriver" value="V"> Дополнительный водитель 2$ в день (бесплатно при заказе 7+ дней)<br>
-                        <input type="checkbox" name="RoadSafe" value="V"> Быстрая помощь на дороге 4$ в день(максимум 100$)<br>
-                        <input type="checkbox" name="Religious" value="V"> Я соблюдаю шабат. Расчет по прейскуранту для верующих <br>
-<!--                        <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>
-                        <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>-->
+                        
                         <textarea name="message" placeholder="Дополнительная информация, вопрос..."></textarea> <br />
 <!--                        
                         <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div>-->
                         <br />
-                        <input type="submit" name="submit" value="ЗАКАЗАТЬ">
+                        <input type="submit" name="submit" value="ЗАПРОСИТЬ ИНФОРМАЦИЮ">
                         
 
                         
@@ -121,13 +83,9 @@
 
 	</div>
     <hr />
-    ** Указанные цены соответствуют прейскуранту дилера компаний Thrifty/Dollar/Albar для низкого сезона и значительно отличаются от расценок на сайте\отделении поставщика <br />
-    * Указанные цены ВКЛЮЧАЮТ обязательные страховки <br />
-    * Указанные цены не включают НДС(от НДС освобождены только туристы имеющие в пасторте визу В2\В3 - обязательно предоставить при получении машины) <br />
-    Часы работы отделений - аэропорт Бен Гурион 24\7, остальные отделения 8-18, пятница 8-13  <br /> 
-    Минимальный возраст водителя 21 год. Водитель 21-23 года - дополнительная оплата "молодой водитель" - 10$ в день <br />
-    Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль того же класса, но другой марки.
-    <br />Компания поставщик может изменить цены и конечной считается цена в ваучере.
+    ** Указанная цена  250USD для заказывающих экскурсию на своей(арендованной) машине <br />
+    * Оплата напрямую гиду <br />
+    
     
     <div class="clearfix"></div>
 
