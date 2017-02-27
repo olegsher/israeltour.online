@@ -89,6 +89,7 @@
 	<hr />
     * Указанная цена  250USD для заказывающих экскурсию на своей(арендованной ) машине <br />
     * Оплата напрямую гиду <br />
+    
 	<div class="rupes">
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
 			<div class="rup-left">
@@ -118,7 +119,7 @@
 				<img src="http://www.rentcarisrael.online/images/action.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
-				<h3><a href="tours.php">Прокат машин люкс класса на однодневные экскурсии</a></h3>
+				<h3><a href="tours.php">Прокат машин семейного класса на однодневные экскурсии</a></h3>
 				<h4><a href="tours.php">от лицензированного гида</a></h4>
 				<p>при заказе аренды машины на нашем сайте</p>
 			</div>
@@ -137,7 +138,7 @@
 				<img src="http://www.rentcarisrael.online/images/catZ.jpg" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
-				<h3>Прокат машин люкс класса на однодневные экскурсии</h3>
+				<h3>Прокат машин эконом класса на однодневные экскурсии</h3>
 				<h4><a href="">Нет предоплаты, возможна оплата наличными</a></h4>
 				<p>при возврате машины</p>
 			</div>
@@ -149,7 +150,7 @@
 			
 			</div>
 			<div class="rup-rgt">
-				<h3>Прокат машин люкс класса на однодневные экскурсии</h3>
+				<h3>Прокат машин компакт класса на однодневные экскурсии</h3>
 				<h4><a href="">На все категории машин</a></h4>
 				<p>при заказе 3-30 дней</p>
 			</div>
@@ -160,7 +161,7 @@
 				<img src="http://www.rentcarisrael.online/images/action.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
-				<h3><a href="tours.php">Прокат машин люкс класса на однодневные экскурсии</a></h3>
+				<h3><a href="tours.php">Трансфер из аэропорта в гостиницу</a></h3>
 				<h4><a href="tours.php">от лицензированного гида</a></h4>
 				<p>при заказе аренды машины на нашем сайте</p>
 			</div>
