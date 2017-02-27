@@ -26,7 +26,7 @@
 				<label class="inputLabel">Выбирайте категорию экскурсий</label>
                                 <!-- Car select start -->
                         
-						 <select onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}" name="car-select" id="car-select" required = "required" autofocus>
+						 <select onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}" name="tour-select" id="tour-select" required = "required" autofocus>
                             <option value="" >Категории экскурсий</option>							
 							<option value="Category Q" >Иерусалим по вашим заявкам - 250USD</option>
 							<option value="Category B" >Эксклюзивные экскурсии по Иерусалиму от наших гидов - 250USD</option>
@@ -83,7 +83,7 @@
 
 	</div>
     <hr />
-    * Указанная цена  250USD для заказывающих экскурсию на своей(арендованной) машине <br />
+    * Указанная цена  250USD для заказывающих экскурсию на своей(арендованной ) машине <br />
     * Оплата напрямую гиду <br />
     
     
