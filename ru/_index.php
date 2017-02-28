@@ -120,6 +120,8 @@
     * Указанная цена  250USD для заказывающих экскурсию на своей(арендованной ) машине <br />
     * Оплата напрямую гиду <br />
     
+<div class="clearfix"></div>    
+    
 	<div class="rupes">
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
 			
