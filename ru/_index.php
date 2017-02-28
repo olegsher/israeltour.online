@@ -96,7 +96,7 @@
 			<div class="rup-rgt">
 			<img src="http://www.rentcarisrael.online/images/catZ.jpg" alt="Позвоните Vastama по аренде автомобиля в Израиле" class="img-responsive" />
 				<h3><a href="http://www.privateisrael.com/%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-%D0%BC%D0%B8%D0%BD%D0%B8%D0%B2%D1%8D%D0%BD%D0%B0-%D0%B2-%D0%B8%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5/">
-				Прокат минивэнов на однодневные экскурсии</a></h3>
+				Прокат минивэнов на однодневные экскурсии по Израилю</a></h3>
 				<h5><a href="http://www.privateisrael.com/%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-%D0%BC%D0%B8%D0%BD%D0%B8%D0%B2%D1%8D%D0%BD%D0%B0-%D0%B2-%D0%B8%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5/">
 				Аренда минивэна на однодневные экскурсии от 64USD, цена включает обязательные страховки и 250км, нет предоплаты, низкий депозит</a></h5>
 				<p></p>
@@ -108,7 +108,7 @@
 			<div class="rup-rgt">
 			<img src="http://www.rentcarisrael.online/images/catW.jpg" alt="Позвоните Vastama по аренде автомобиля в Израиле" class="img-responsive" />
 				<h3><a href="http://www.privateisrael.com/blog/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8-%D0%BB%D1%8E%D0%BA%D1%81-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0/">
-				Прокат машин класса люкс на однодневные экскурсии</a></h3>
+				Прокат машин класса люкс на однодневные экскурсии по Израилю</a></h3>
 				<h5><a href="http://www.privateisrael.com/blog/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8-%D0%BB%D1%8E%D0%BA%D1%81-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0/">
 				Аренда автомобилей класса люкс на однодневные экскурсии от 91USD, цена включает обязательные страховки и 250км, нет предоплаты, низкий депозит</a></h5>
 				<p></p>
@@ -120,7 +120,7 @@
 			<div class="rup-rgt">
 			<img src="http://www.rentcarisrael.online/images/catI.jpg" alt="Позвоните Vastama по аренде автомобиля в Израиле" class="img-responsive" />
 				<h3><a href="http://www.privateisrael.com/blog/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8-%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0/">
-				Прокат машин класса Mazda3 на однодневные экскурсии</a></h3><br>
+				Прокат семейных машин на однодневные экскурсии по Израилю</a></h3>
 				<h5><a href="http://www.privateisrael.com/blog/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8-%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0/">
 				Аренда автомобилей класса Mazda3 на однодневные экскурсии от 34USD, цена включает обязательные страховки и 250км, нет предоплаты, низкий депозит</a></h5>
 					<p></p>
