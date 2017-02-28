@@ -93,36 +93,22 @@
                     
                     <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-ok"></span> Почта</span>
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-ok"></span> WhatsApp</span>
                         <input type="text" name="phone" class="form-control autocomplete-location" placeholder="Введите ваш телефон-whatsapp-viber включая код страны" required = "required">  
                       </div>                                         
                     </div>
                       
                       
                       <div class="clearfix"></div>
-                    </div>
-                    <!-- Pick-up date/time end -->
+                    </div>               
 
 
                     <input type="submit" class="submit" name="submit" value="ЗАПРОСИТЬ ИНФОРМАЦИЮ" id="checkoutModalLabel">
                   </form>
 
-                </div>				
-					
-				
-				
-
-                      
-                        
-                        
+                </div>                        
 		</div>
-
-                       
-
-                       
-                        
-
-                        
+          
   </form>
                 
  
