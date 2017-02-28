@@ -107,9 +107,9 @@
                       
                      <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span> Pick-up</span>
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span> Имя</span>
                         <input type="text" name="pick-up-location" id="pick-up-location" class="form-control autocomplete-location" placeholder="Enter a City or Airport">
-								Имя <input type="text" name="First_name" placeholder="" required = "required">                        
+								<input type="text" name="First_name" placeholder="" required = "required">                        
                         
                       </div>                                         
                     </div>
