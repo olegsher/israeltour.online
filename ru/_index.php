@@ -108,9 +108,21 @@
                      <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span> Имя</span>
-                        <input type="text" name="pick-up-location" id="pick-up-location" class="form-control autocomplete-location" placeholder="Enter a City or Airport">
-								<input type="text" name="First_name" placeholder="" required = "required">                        
-                        
+                        <input type="text" name="First_name" class="form-control autocomplete-location" placeholder="Введите ваше имя" required = "required">  
+                      </div>                                         
+                    </div>
+                    
+                    <div class="location">
+                      <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span> Имя</span>
+                        <input type="text" name="Last_name" class="form-control autocomplete-location" placeholder="Введите вашу фамилию" required = "required">  
+                      </div>                                         
+                    </div>
+                    
+                    <div class="location">
+                      <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span> Имя</span>
+                        <input type="text" name="email" class="form-control autocomplete-location" placeholder="Введите вашу почту" required = "required">  
                       </div>                                         
                     </div>
                       
