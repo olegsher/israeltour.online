@@ -22,7 +22,7 @@
 		
 		<div class="ban-bottom">
                     
-				<div class="clearfix"></div>
+				
 				
 				
 				
