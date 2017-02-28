@@ -18,15 +18,8 @@
                 <p style="color:red;" >Нет скрытых платежей, нет посредников, оплата напрямую гиду. 
                     <br />Нет предоплаты, нет платы за изменение или отмену заказа </p>
                 <br />
-  
-  
-                    
-                        
-				
-                    
-          
-<!--				<div class="clearfix"></div>-->
-		</div>
+               
+		
 		<div class="ban-bottom">
                     
 				<div class="clearfix"></div>
@@ -111,21 +104,26 @@
                     <!-- Pick-up date/time end -->
 
 
-                    <input type="submit" class="submit" name="submit" value="continue car reservation" id="checkoutModalLabel">
-                    <textarea name="message" placeholder="Дополнительная информация, вопрос..."></textarea> <br />
-<!--                        
-                        <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div>-->
-                        <br />
-                        <input type="submit" name="submit" value="ЗАПРОСИТЬ ИНФОРМАЦИЮ">
+                    <input type="submit" class="submit" name="submit" value="ЗАПРОСИТЬ ИНФОРМАЦИЮ" id="checkoutModalLabel">
                   </form>
 
                 </div>				
-				
-				
+					
 				
 				
 
+                      
+                        
+                        
+		</div>
 
+                       
+
+                       
+                        
+
+                        
+  </form>
                 
  
 
