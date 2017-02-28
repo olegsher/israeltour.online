@@ -35,8 +35,10 @@ if(isset($_POST['submit'])){
 $message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
 $message .= "<tr style='background: #eee;'><td><strong>Имя:</strong> </td><td>" . strip_tags($_POST['First_name']) . "</td></tr>";
 // $message .= "<tr style='background: #eee;'><td><strong>Фамилия:</strong> </td><td>" . strip_tags($_POST['Last_name']) . "</td></tr>";
-$message .= "<tr><td><strong>Почта:</strong> </td><td>" . strip_tags($_POST['email']) . "</td></tr>";
+$message .= "<tr><td><strong>Выезд из:</strong> </td><td>" . strip_tags($_POST['pick-up-location']) . "</td></tr>";
+$message .= "<tr><td><strong>Дата:</strong> </td><td>" . strip_tags($_POST['pick-up-date']) . "</td></tr>";
 $message .= "<tr><td><strong>Телефон:</strong> </td><td>" . strip_tags($_POST['phone']) . "</td></tr>";
+$message .= "<tr><td><strong>Почта:</strong> </td><td>" . strip_tags($_POST['email']) . "</td></tr>";
 // $message .= "<tr><td><strong>Whatsapp:</strong> </td><td>" . strip_tags($_POST['whatsapp']) . "</td></tr>";
 // $message .= "<tr><td><strong>Viber:</strong> </td><td>" . strip_tags($_POST['viber']) . "</td></tr>";
 // $message .= "<tr><td><strong>Skype:</strong> </td><td>" . strip_tags($_POST['skype']) . "</td></tr>";
