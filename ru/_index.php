@@ -92,9 +92,7 @@
     
 	<div class="rupes">
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
-			<div class="rup-left">
-				<img src="http://www.rentcarisrael.online/images/catZ.jpg" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
-			</div>
+			
 			<div class="rup-rgt">
 			<img src="http://www.rentcarisrael.online/images/catZ.jpg" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 				<h3><a href="http://www.privateisrael.com/%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-%D0%BC%D0%B8%D0%BD%D0%B8%D0%B2%D1%8D%D0%BD%D0%B0-%D0%B2-%D0%B8%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5/">
@@ -106,24 +104,23 @@
 				<div class="clearfix"></div>
 		</div>
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
-			<div class="rup-left">
-				<img src="http://www.rentcarisrael.online/images/catW.jpg" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			
-			</div>
 			<div class="rup-rgt">
-				<h3><a href="tours.php">Прокат машин класса люкс на однодневные экскурсии</a></h3>
-				<h4><a href="tours.php">престижные машины в аренду</a></h4>
+			<img src="http://www.rentcarisrael.online/images/catW.jpg" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+				<h3><a href="http://www.privateisrael.com/blog/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8-%D0%BB%D1%8E%D0%BA%D1%81-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0/">
+				Прокат машин класса люкс на однодневные экскурсии</a></h3>
+				<h4><a href="http://www.privateisrael.com/blog/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8-%D0%BB%D1%8E%D0%BA%D1%81-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0/">
+				Прокат автомобилей класса люкс на однодневные экскурсии от 91USD(включая обязательные страховки)</a></h4>
 				<p>без предоплаты, низкий депозит</p>
 			</div>
 				<div class="clearfix"></div>
 		</div>
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
-			<div class="rup-left">
-				<img src="http://www.rentcarisrael.online/images/action.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
-			</div>
+			
 			<div class="rup-rgt">
+			<img src="http://www.rentcarisrael.online/images/catI.jpg" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 				<h3><a href="tours.php">Прокат машин семейного класса на однодневные экскурсии</a></h3>
-				<h4><a href="tours.php">от лицензированного гида</a></h4>
+				<h4><a href="tours.php">Прокат автомобилей класса люкс на однодневные экскурсии от 91USD(включая обязательные страховки)</a></h4>
 				<p>при заказе аренды машины на нашем сайте</p>
 			</div>
 				<div class="clearfix"></div>
