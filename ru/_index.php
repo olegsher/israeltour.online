@@ -57,7 +57,7 @@
                     <!-- Pick-up location start -->
                     <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span> Pick-up</span>
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span> Выезд из:</span>
                         <input type="text" name="pick-up-location" id="pick-up-location" class="form-control autocomplete-location" placeholder="Enter a City or Airport">
                       </div>                                         
                     </div>
@@ -67,8 +67,8 @@
                     <div class="datetime pick-up">
                       <div class="date pull-left">
                         <div class="input-group">
-                          <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span> Pick-up</span>
-                          <input type="text" name="pick-up-date" id="pick-up-date" class="form-control datepicker" placeholder="mm/dd/yyyy">
+                          <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span> Дата    :</span>
+                          <input type="text" name="pick-up-date" id="pick-up-date" class="form-control autocomplete-location" placeholder="Введите желаемую дату">
                         </div>
                       </div>
                       
@@ -77,7 +77,7 @@
                       
                      <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span> Ф.И.О  </span>
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span> Ф.И.О   :</span>
                         <input type="text" name="First_name" class="form-control autocomplete-location" placeholder="Введите ваше имя" required = "required">  
                       </div>                                         
                     </div>
@@ -86,7 +86,7 @@
                     
                     <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span> Почта </span>
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span> Почта   :</span>
                         <input type="text" name="email" class="form-control autocomplete-location" placeholder="Введите вашу почту" required = "required">  
                       </div>                                         
                     </div>
