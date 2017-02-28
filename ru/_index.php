@@ -77,7 +77,7 @@
                       
                      <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span> Ф.И.О </span>
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span> Ф.И.О  </span>
                         <input type="text" name="First_name" class="form-control autocomplete-location" placeholder="Введите ваше имя" required = "required">  
                       </div>                                         
                     </div>
@@ -86,14 +86,14 @@
                     
                     <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span> Почта</span>
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span> Почта </span>
                         <input type="text" name="email" class="form-control autocomplete-location" placeholder="Введите вашу почту" required = "required">  
                       </div>                                         
                     </div>
                     
                     <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-ok"></span> WhatsApp</span>
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-ok"></span> Телефон </span>
                         <input type="text" name="phone" class="form-control autocomplete-location" placeholder="Введите ваш телефон-whatsapp-viber включая код страны" required = "required">  
                       </div>                                         
                     </div>
