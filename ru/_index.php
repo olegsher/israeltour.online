@@ -110,18 +110,6 @@
                     </div>
                     <!-- Pick-up date/time end -->
 
-                    <!-- Drop-off date/time start -->
-                    <div class="datetime drop-off">
-                      <div class="date pull-left">
-                        <div class="input-group">
-                          <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span> Drop-off</span>
-                          <input type="text" name="drop-off-date" id="drop-off-date" class="form-control datepicker" placeholder="mm/dd/yyyy">
-                        </div>
-                      </div>
-                      
-                      <div class="clearfix"></div>
-                    </div>
-                    <!-- Drop-off date/time end -->
 
                     <input type="submit" class="submit" name="submit" value="continue car reservation" id="checkoutModalLabel">
                   </form>
