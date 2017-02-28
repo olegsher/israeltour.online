@@ -26,8 +26,7 @@
                         
 						 <select onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}" name="tour-select" id="tour-select" required = "required" autofocus>
                             							
-							<option value="Иерусалим по вашим заявкам - 250USD" >Иерусалим по вашим заявкам - 250USD</option>
-							
+							<option value="Иерусалим по вашим заявкам - 250USD" >Иерусалим по вашим заявкам - 250USD</option>							
 							<option value="Израиль Иудейский  - 250USD" >Израиль Иудейский  - 250USD</option>
 							<option value="Израиль Христианский - 250USD" >Израиль Христианский - 250USD </option>
 							<option value="Израиль Мусульманский - 250USD" >Израиль Мусульманский - 250USD</option>
@@ -35,8 +34,7 @@
 							<option value="Израиль ознакомительный - 250USD" >Израиль ознакомительный - 250USD</option>
 							<option value="Израиль исторический - 250USD" >Израиль исторический - 250USD</option>
 							<option value="Израиль культурный - 250USD" >Израиль культурный - 250USD</option>
-							<option value="Израиль гастрономический - 250USD" >Израиль гастрономический - 250USD</option>
-							
+							<option value="Израиль гастрономический - 250USD" >Израиль гастрономический - 250USD</option>							
 							<option value="Эксклюзивные экскурсии по Иерусалиму от наших гидов - 250USD" >Эксклюзивные экскурсии по Иерусалиму от наших гидов - 250USD</option>
 							<option value="Эксклюзивные экскурсии по Израилю от наших гидов - 250USD" >Эксклюзивные экскурсии по Израилю от наших гидов - 250USD</option>							
 						</select>
@@ -70,14 +68,18 @@
 
                     <!-- Car select start -->
                     <div class="styled-select-car">
-                      <select name="car-select" id="car-select">
-                        <option value="">Select your car type</option>
-                        <option value="../img/vehicle1.jpg">VW Golf VII</option>
-                        <option value="../img/vehicle2.jpg">Audi A1 S-LINE</option>
-                        <option value="../img/vehicle3.jpg">Toyota Camry</option>
-                        <option value="../img/vehicle4.jpg">BMW 320 ModernLine</option>
-                        <option value="../img/vehicle5.jpg">Mercedes-Benz GLK</option>
-                        <option value="../img/vehicle6.jpg">VW Passat CC</option>
+                      <select name="tour-select" id="tour-select">
+                        <option value="Иерусалим по вашим заявкам - 250USD" >Иерусалим по вашим заявкам - 250USD</option>							
+							<option value="Израиль Иудейский  - 250USD" >Израиль Иудейский  - 250USD</option>
+							<option value="Израиль Христианский - 250USD" >Израиль Христианский - 250USD </option>
+							<option value="Израиль Мусульманский - 250USD" >Израиль Мусульманский - 250USD</option>
+							<option value="Израиль трех религий - 250USD" >Израиль трех религий - 250USD</option>							
+							<option value="Израиль ознакомительный - 250USD" >Израиль ознакомительный - 250USD</option>
+							<option value="Израиль исторический - 250USD" >Израиль исторический - 250USD</option>
+							<option value="Израиль культурный - 250USD" >Израиль культурный - 250USD</option>
+							<option value="Израиль гастрономический - 250USD" >Израиль гастрономический - 250USD</option>							
+							<option value="Эксклюзивные экскурсии по Иерусалиму от наших гидов - 250USD" >Эксклюзивные экскурсии по Иерусалиму от наших гидов - 250USD</option>
+							<option value="Эксклюзивные экскурсии по Израилю от наших гидов - 250USD" >Эксклюзивные экскурсии по Израилю от наших гидов - 250USD</option>
                       </select>
                     </div>
                     <!-- Car select end -->
