@@ -42,7 +42,7 @@ $message .= "<tr><td><strong>Viber:</strong> </td><td>" . strip_tags($_POST['vib
 $message .= "<tr><td><strong>Skype:</strong> </td><td>" . strip_tags($_POST['skype']) . "</td></tr>";
 
 $message .= "<tr style='background: #eee;'><td><strong>Tour:</strong> </td><td>" . strip_tags($_POST['tour-select']) . "</td></tr>";
-$message .= "<tr><td><strong>message:</strong> </td><td>" . strip_tags($_POST['message']) . "</td></tr>";
+$message .= "<tr><td><strong>Сообщение:</strong> </td><td>" . strip_tags($_POST['message']) . "</td></tr>";
 $message .= "</table>";
 $message .= "</body></html>";
 

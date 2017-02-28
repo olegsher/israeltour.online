@@ -26,23 +26,23 @@ if(isset($_POST['submit'])){
     $headers .= "Content-Type: text/html; charset=utf-8\r\n";
     
     
-    $subject = $_POST['First_name'] . " " . $_POST['Last_name'] . " " . $_POST['tour-select'] . " " . "israeltour.online";    
+    $subject = $_POST['First_name'] . " " . " " . $_POST['tour-select'] . " " . "israeltour.online";    
             $message = '<html lang="ru"><body>';
             $message .= '<hr />';
             $message .= 'Бронирование экскурсии в Израиле на http://www.israeltour.online +972-58-7710101';
             $message .= '<hr />';
-$message .= '<img src="http://www.israeltour.online/ru/images/israel.png" alt="Бронирование индивидуальной экскурсии в Израиле +972-58-7710101" />';
+// $message .= '<img src="http://www.israeltour.online/ru/images/israel.png" alt="Бронирование индивидуальной экскурсии в Израиле +972-58-7710101" />';
 $message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
 $message .= "<tr style='background: #eee;'><td><strong>Имя:</strong> </td><td>" . strip_tags($_POST['First_name']) . "</td></tr>";
-$message .= "<tr style='background: #eee;'><td><strong>Фамилия:</strong> </td><td>" . strip_tags($_POST['Last_name']) . "</td></tr>";
+// $message .= "<tr style='background: #eee;'><td><strong>Фамилия:</strong> </td><td>" . strip_tags($_POST['Last_name']) . "</td></tr>";
 $message .= "<tr><td><strong>Почта:</strong> </td><td>" . strip_tags($_POST['email']) . "</td></tr>";
 $message .= "<tr><td><strong>Телефон:</strong> </td><td>" . strip_tags($_POST['phone']) . "</td></tr>";
-$message .= "<tr><td><strong>Whatsapp:</strong> </td><td>" . strip_tags($_POST['whatsapp']) . "</td></tr>";
-$message .= "<tr><td><strong>Viber:</strong> </td><td>" . strip_tags($_POST['viber']) . "</td></tr>";
-$message .= "<tr><td><strong>Skype:</strong> </td><td>" . strip_tags($_POST['skype']) . "</td></tr>";
+// $message .= "<tr><td><strong>Whatsapp:</strong> </td><td>" . strip_tags($_POST['whatsapp']) . "</td></tr>";
+// $message .= "<tr><td><strong>Viber:</strong> </td><td>" . strip_tags($_POST['viber']) . "</td></tr>";
+// $message .= "<tr><td><strong>Skype:</strong> </td><td>" . strip_tags($_POST['skype']) . "</td></tr>";
 
 $message .= "<tr style='background: #eee;'><td><strong>Tour:</strong> </td><td>" . strip_tags($_POST['tour-select']) . "</td></tr>";
-$message .= "<tr><td><strong>Сообщение:</strong> </td><td>" . strip_tags($_POST['message']) . "</td></tr>";
+// $message .= "<tr><td><strong>Сообщение:</strong> </td><td>" . strip_tags($_POST['message']) . "</td></tr>";
 $message .= "</table>";
 $message .= "</body></html>";
 
