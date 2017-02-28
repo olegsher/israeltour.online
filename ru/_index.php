@@ -96,6 +96,7 @@
 				<img src="http://www.rentcarisrael.online/images/catZ.jpg" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
+			<img src="http://www.rentcarisrael.online/images/catZ.jpg" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 				<h3><a href="http://www.privateisrael.com/%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-%D0%BC%D0%B8%D0%BD%D0%B8%D0%B2%D1%8D%D0%BD%D0%B0-%D0%B2-%D0%B8%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5/">
 				Прокат минивэнов на однодневные экскурсии от 64USD(включая обязательные страховки) </a></h3>
 				<h4><a href="http://www.privateisrael.com/%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-%D0%BC%D0%B8%D0%BD%D0%B8%D0%B2%D1%8D%D0%BD%D0%B0-%D0%B2-%D0%B8%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5/">
