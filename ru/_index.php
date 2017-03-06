@@ -28,8 +28,15 @@
 
                     <!-- Car select start -->
                     <div class="styled-select-car">
-                      <select name="tour-select" id="tour-select">
-                        <option value="Иерусалим по вашим заявкам - 250USD" >Иерусалим по вашим заявкам - 250USD</option>							
+                    
+					<label  for="tour-selectt">Выбирайте класс автомобиля</label>
+                               
+                        
+						 <select class="form-control" name="tour-select" id="tour-select" required = "required" >
+                     <option value="" >Наши Экскурсии</option>                    
+                    
+                      <!-- <select name="tour-select" id="tour-select"> -->
+                     <option value="Иерусалим по вашим заявкам - 250USD" >Иерусалим по вашим заявкам - 250USD</option>							
 							<option value="Израиль Иудейский  - 250USD" >Израиль Иудейский  - 250USD</option>
 							<option value="Израиль Христианский - 250USD" >Израиль Христианский - 250USD </option>
 							<option value="Израиль Мусульманский - 250USD" >Израиль Мусульманский - 250USD</option>
