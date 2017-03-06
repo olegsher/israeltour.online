@@ -82,7 +82,7 @@ header('Location: http://www.israeltour.online/thankyou.php');
 <?php include("__header.html"); ?>
 </head>
 <body>
-<?php include("x__facebook.html"); ?>
+<?php include("__facebook.html"); ?>
 <?php include("x__google.html"); ?>
 <?php include("x__mailru.html"); ?>
 <?php include("x__yandex.html"); ?>
