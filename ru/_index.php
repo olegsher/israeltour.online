@@ -29,11 +29,11 @@
                     <!-- Car select start -->
                     <div class="styled-select-car">
                     
-					<label  for="tour-selectt">Выбирайте класс автомобиля</label>
+					<label  for="tour-select">Наши Экскурсии</label>
                                
                         
 						 <select class="form-control" name="tour-select" id="tour-select" required = "required" >
-                     <option value="" >Наши Экскурсии</option>                    
+                     <!-- <option value="" ></option>  -->                   
                     
                       <!-- <select name="tour-select" id="tour-select"> -->
                      <option value="Иерусалим по вашим заявкам - 250USD" >Иерусалим по вашим заявкам - 250USD</option>							
@@ -90,7 +90,7 @@
                     
                     <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-ok"></span></span>
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-earphone"></span></span>
                         <input type="text" name="phone" class="form-control autocomplete-location" placeholder="ваш телефон-whatsapp-viber включая код страны" required = "required">  
                       </div>                                         
                     </div>
