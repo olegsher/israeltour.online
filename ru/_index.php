@@ -36,7 +36,7 @@
                      <!-- <option value="" ></option>  -->                   
                     
                       <!-- <select name="tour-select" id="tour-select"> -->
-                      <option value="" ></option>
+                      <option value="" >Наши Экскурсии</option>
                      <option value="Иерусалим по вашим заявкам - 250USD" >Иерусалим по вашим заявкам - 250USD</option>							
 							<option value="Израиль Иудейский  - 250USD" >Израиль Иудейский  - 250USD</option>
 							<option value="Израиль Христианский - 250USD" >Израиль Христианский - 250USD </option>
