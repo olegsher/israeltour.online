@@ -1,5 +1,0 @@
-User-agent: *
-sitemap: http://www.israeltour.online/sitemap.xml
-Disallow:
-Host: www.israeltour.online
-

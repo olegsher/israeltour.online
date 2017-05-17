@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="col-md-5 bann-info1 wow fadeInLeft animated" data-wow-delay=".5s">
 <!--		<i class="fa fa-columns"></i>-->
-<i> <img src="images/israel.jpg" alt="БРОНИРОВАНИЕ ЭКСКУРСИИ В ИЗРАИЛЕ ЗА ОДИН ШАГ" class="img-responsive" /></i>
+<i> <img src="../images/israel.jpg" alt="БРОНИРОВАНИЕ ЭКСКУРСИИ В ИЗРАИЛЕ ЗА ОДИН ШАГ" class="img-responsive" /></i>
 		<h3>БРОНИРОВАНИЕ ЭКСКУРСИИ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h3>       
                 
                 
@@ -174,10 +174,10 @@
     <br /><h2>ЕСТЬ ВОПРОСЫ ПО ЭКСКУРСИЯМ?</h2>
 </div> 
 <br />Наши гиды ответят на любой ваш вопрос
- <br /><img src="images/phone.gif" alt="Позвоните Vastama по экскурсиям в Израиле" /> Телефон в Израиле +972-58-7710101
- <br /><img src="images/whatsapp.png" alt="Позвоните Vastama по экскурсиям в Израиле" /> WhatsApp +972-58-7710101
- <br /><img src="images/viber.png" alt="Позвоните Vastama по экскурсиям в Израиле" /> Viber +972-58-7710101
- <br /><img src="images/mail.gif" alt="Позвоните Vastama по экскурсиям в Израиле" /> Почта admin@vastama.com
+ <br /><img src="../images/phone.gif" alt="Позвоните Vastama по экскурсиям в Израиле" /> Телефон в Израиле +972-58-7710101
+ <br /><img src="../images/whatsapp.png" alt="Позвоните Vastama по экскурсиям в Израиле" /> WhatsApp +972-58-7710101
+ <br /><img src="../images/viber.png" alt="Позвоните Vastama по экскурсиям в Израиле" /> Viber +972-58-7710101
+ <br /><img src="../images/mail.gif" alt="Позвоните Vastama по экскурсиям в Израиле" /> Почта admin@vastama.com
  <br />говорим по русски
  <hr />
  <div class="fb-like" data-href="https://www.facebook.com/vastama.israel/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
